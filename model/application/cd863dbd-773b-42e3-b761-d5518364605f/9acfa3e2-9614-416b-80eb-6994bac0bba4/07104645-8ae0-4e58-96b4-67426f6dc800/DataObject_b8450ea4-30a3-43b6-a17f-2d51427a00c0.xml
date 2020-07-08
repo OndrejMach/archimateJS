@@ -1,8 +1,0 @@
-<archimate:DataObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="monipat-labels"
-    id="b8450ea4-30a3-43b6-a17f-2d51427a00c0">
-  <properties
-      key="hdfs_path"
-      value="/prod/monipat/labels/monipat-labels.tsv"/>
-</archimate:DataObject>

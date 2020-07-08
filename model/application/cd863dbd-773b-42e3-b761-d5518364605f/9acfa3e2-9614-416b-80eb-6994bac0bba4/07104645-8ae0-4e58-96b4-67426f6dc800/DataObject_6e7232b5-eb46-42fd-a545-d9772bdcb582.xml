@@ -1,8 +1,0 @@
-<archimate:DataObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="dataset daily"
-    id="6e7232b5-eb46-42fd-a545-d9772bdcb582">
-  <properties
-      key="hdfs_path"
-      value="/prod/monipat/datasets/daily"/>
-</archimate:DataObject>

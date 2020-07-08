@@ -1,8 +1,0 @@
-<archimate:DataObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="domain metrics backup"
-    id="bee19dd5-47c8-448e-97b4-b05286c5e67f">
-  <properties
-      key="hdfs_path"
-      value="/user/martin.mesrsmid/pattern_monitoring_pipeline/domain_metrics_backup"/>
-</archimate:DataObject>

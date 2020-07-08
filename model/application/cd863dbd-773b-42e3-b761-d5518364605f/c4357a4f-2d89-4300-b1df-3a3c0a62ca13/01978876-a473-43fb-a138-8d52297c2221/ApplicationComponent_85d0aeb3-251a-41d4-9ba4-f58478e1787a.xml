@@ -1,8 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Data availability API"
-    id="85d0aeb3-251a-41d4-9ba4-f58478e1787a">
-  <properties
-      key="responsible person"
-      value="Daniel Kavan, Radek Micek"/>
-</archimate:ApplicationComponent>

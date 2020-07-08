@@ -1,8 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Optimization feed Azkaban flow"
-    id="e5e71cfb-7a58-4190-99de-5a9c5e50a770">
-  <properties
-      key="responsible person"
-      value="Vaclav Vavra, Anastasia Kuznetsova"/>
-</archimate:ApplicationComponent>

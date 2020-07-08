@@ -1,8 +1,0 @@
-<archimate:DataObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="dataset train"
-    id="839a3a05-9a97-45e5-92bd-1f37a09c7dd2">
-  <properties
-      key="hdfs_path"
-      value="/prod/monipat/datasets/train"/>
-</archimate:DataObject>

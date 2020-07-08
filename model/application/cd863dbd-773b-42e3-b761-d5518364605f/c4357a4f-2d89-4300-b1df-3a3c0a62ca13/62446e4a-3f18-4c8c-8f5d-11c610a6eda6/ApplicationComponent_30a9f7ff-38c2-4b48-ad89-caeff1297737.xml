@@ -1,9 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="exposures dump"
-    id="30a9f7ff-38c2-4b48-ad89-caeff1297737"
-    documentation="(kafka, legacy mongo) to be replaced by webshield data">
-  <properties
-      key="responsible person"
-      value="Alex Hagerf"/>
-</archimate:ApplicationComponent>

@@ -1,8 +1,0 @@
-<archimate:DataObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Path2Purchase - Hotels"
-    id="425544db-4fe2-4f7f-aa5b-4a9478d29748">
-  <properties
-      key="hdfs_path"
-      value="/prod/p2p/hotels"/>
-</archimate:DataObject>

@@ -1,8 +1,0 @@
-<archimate:DataObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="domain model"
-    id="f3f2281a-c5f1-4c23-9971-d6aa91396a40">
-  <properties
-      key="hdfs_path"
-      value="/prod/calibration/models/domain_model/v1"/>
-</archimate:DataObject>

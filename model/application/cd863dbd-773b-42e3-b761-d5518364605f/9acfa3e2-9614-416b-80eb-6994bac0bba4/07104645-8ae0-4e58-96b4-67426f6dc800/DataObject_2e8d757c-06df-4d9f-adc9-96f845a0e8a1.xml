@@ -1,8 +1,0 @@
-<archimate:DataObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="model"
-    id="2e8d757c-06df-4d9f-adc9-96f845a0e8a1">
-  <properties
-      key="hdfs_path"
-      value="/prod/monipat/models/monipat-model.pkl"/>
-</archimate:DataObject>

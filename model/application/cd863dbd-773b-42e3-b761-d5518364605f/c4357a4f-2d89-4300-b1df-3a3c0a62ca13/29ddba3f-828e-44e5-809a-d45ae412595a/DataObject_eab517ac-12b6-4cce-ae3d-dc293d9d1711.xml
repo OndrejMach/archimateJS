@@ -1,8 +1,0 @@
-<archimate:DataObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Audience seed HDFS parquet output"
-    id="eab517ac-12b6-4cce-ae3d-dc293d9d1711">
-  <properties
-      key="responsible person"
-      value="Derek Hsieh, Chris Leung"/>
-</archimate:DataObject>

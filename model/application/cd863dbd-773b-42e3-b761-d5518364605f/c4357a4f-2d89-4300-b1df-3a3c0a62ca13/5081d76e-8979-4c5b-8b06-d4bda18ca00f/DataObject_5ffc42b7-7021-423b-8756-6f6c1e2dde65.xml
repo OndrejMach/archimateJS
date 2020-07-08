@@ -1,9 +1,0 @@
-<archimate:DataObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Event meta JSON"
-    id="5ffc42b7-7021-423b-8756-6f6c1e2dde65"
-    documentation="contains UUID for identification of types/subtypes of events (conversion, view, etc..)&#xA;path: /data/pattern-feed-uuid/event-meta.json">
-  <properties
-      key="hdfs_path"
-      value="/data/pattern-feed-uuid/event-meta.json"/>
-</archimate:DataObject>

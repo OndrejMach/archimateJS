@@ -1,9 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="1010 Analyzer"
-    id="eb840557-a1f3-4002-a002-1928ecbd4718"
-    documentation="long living app checking Pattern repository for a new revision + checking new clickstream day">
-  <properties
-      key="responsible person"
-      value="Petr Poliak, Daniel Maly"/>
-</archimate:ApplicationComponent>

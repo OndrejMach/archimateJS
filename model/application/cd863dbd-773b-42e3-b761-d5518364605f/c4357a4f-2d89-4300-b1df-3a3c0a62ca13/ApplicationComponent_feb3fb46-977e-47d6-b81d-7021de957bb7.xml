@@ -1,8 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Data Delivery tool"
-    id="feb3fb46-977e-47d6-b81d-7021de957bb7">
-  <properties
-      key="responsible person"
-      value="Daniel Kavan, Radek Micek"/>
-</archimate:ApplicationComponent>

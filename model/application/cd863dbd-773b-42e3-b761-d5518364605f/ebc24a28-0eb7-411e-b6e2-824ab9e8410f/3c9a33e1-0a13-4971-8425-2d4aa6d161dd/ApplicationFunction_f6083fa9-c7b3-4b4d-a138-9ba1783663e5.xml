@@ -1,8 +1,0 @@
-<archimate:ApplicationFunction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Dumper spark streaming PRG"
-    id="f6083fa9-c7b3-4b4d-a138-9ba1783663e5">
-  <properties
-      key="YARN_queue"
-      value="production.datasource.clickstream_dumper"/>
-</archimate:ApplicationFunction>

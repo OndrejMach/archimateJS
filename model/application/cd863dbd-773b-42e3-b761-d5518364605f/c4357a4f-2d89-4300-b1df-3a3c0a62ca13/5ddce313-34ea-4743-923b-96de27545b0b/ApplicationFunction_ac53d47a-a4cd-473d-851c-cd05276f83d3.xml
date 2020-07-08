@@ -1,8 +1,0 @@
-<archimate:ApplicationFunction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Optimization feed spark job"
-    id="ac53d47a-a4cd-473d-851c-cd05276f83d3">
-  <properties
-      key="responsible person"
-      value="Vaclav Vavra, Anastasia Kuznetsova"/>
-</archimate:ApplicationFunction>

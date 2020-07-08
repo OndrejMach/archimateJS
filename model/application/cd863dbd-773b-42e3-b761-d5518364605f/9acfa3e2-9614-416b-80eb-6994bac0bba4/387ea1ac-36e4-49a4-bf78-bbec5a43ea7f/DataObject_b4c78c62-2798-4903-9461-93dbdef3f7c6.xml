@@ -1,8 +1,0 @@
-<archimate:DataObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="userstats SVD"
-    id="b4c78c62-2798-4903-9461-93dbdef3f7c6">
-  <properties
-      key="hdfs_path"
-      value="/prod/userstats/svd/v1/features/"/>
-</archimate:DataObject>

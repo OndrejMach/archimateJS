@@ -1,8 +1,0 @@
-<archimate:DataObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="meanfield predict"
-    id="6a07d992-031f-4ee3-acc0-750bc2746597">
-  <properties
-      key="hdfs_path"
-      value="/prod/calibration/models/meanfield_model/v1/coeffs_predicted"/>
-</archimate:DataObject>

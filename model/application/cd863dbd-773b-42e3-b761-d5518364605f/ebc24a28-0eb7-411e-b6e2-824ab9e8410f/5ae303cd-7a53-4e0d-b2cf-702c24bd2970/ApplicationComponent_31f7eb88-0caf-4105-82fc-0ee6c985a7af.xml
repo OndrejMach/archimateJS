@@ -1,8 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Preprocessing"
-    id="31f7eb88-0caf-4105-82fc-0ee6c985a7af">
-  <properties
-      key="responsible person"
-      value="Noam Asor, Ondrej Nekola, Petr Dusak"/>
-</archimate:ApplicationComponent>

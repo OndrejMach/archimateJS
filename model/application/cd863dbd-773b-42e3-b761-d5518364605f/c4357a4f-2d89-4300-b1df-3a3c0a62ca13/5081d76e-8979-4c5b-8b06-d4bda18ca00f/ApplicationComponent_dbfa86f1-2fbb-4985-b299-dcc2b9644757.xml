@@ -1,5 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Event metadata loader (Azkaban)"
-    id="dbfa86f1-2fbb-4985-b299-dcc2b9644757"
-    documentation="fetch_event_meta workflow"/>
