@@ -1,0 +1,11 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Delivery Console (CDC) - backend"
+    id="a3bf330e-fae8-4534-92c5-4e3b02f027df">
+  <properties
+      key="YARN_queue"
+      value="production.cdc.daily, production.cdc.historical, production.cdc.historical_fast"/>
+  <properties
+      key="responsible person"
+      value="Daniel Kavan, Nikola Kozmova, Radek Micek, Rastislav Kadlecek (App)"/>
+</archimate:ApplicationComponent>

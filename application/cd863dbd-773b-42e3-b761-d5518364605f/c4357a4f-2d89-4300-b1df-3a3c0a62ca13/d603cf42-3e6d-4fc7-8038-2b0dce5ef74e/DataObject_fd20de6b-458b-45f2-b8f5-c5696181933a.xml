@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Audience seed on S3"
+    id="fd20de6b-458b-45f2-b8f5-c5696181933a">
+  <properties
+      key="responsible person"
+      value="Derek Hsieh, Chris Leung"/>
+</archimate:DataObject>

@@ -1,0 +1,15 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HDFS clickstream domain - PARQUET "
+    id="ca741fe6-3ac8-4b7f-afcf-fe73ec133062"
+    documentation="split into separated buckets by domain name - stored on hdfs /data/parquet-domain">
+  <properties
+      key="hdfs_path"
+      value="/prod/urlinfo/clickstream/middomain/v01/"/>
+  <properties
+      key="responsible person"
+      value="Petr Dusak, Noam Asor"/>
+  <properties
+      key="hive_table"
+      value="clickstream.middomain"/>
+</archimate:DataObject>

@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="domain features"
+    id="90595fdf-1839-4bfb-83ee-8d2c99cfe570">
+  <properties
+      key="es_resource"
+      value="data-science-calibration-domain-features/data"/>
+</archimate:DataObject>

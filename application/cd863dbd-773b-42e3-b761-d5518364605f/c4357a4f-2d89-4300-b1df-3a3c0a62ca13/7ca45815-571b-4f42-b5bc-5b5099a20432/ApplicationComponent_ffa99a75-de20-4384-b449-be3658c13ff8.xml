@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cookies export"
+    id="ffa99a75-de20-4384-b449-be3658c13ff8">
+  <properties
+      key="responsible person"
+      value="Petr Jordan, Ondrej Machacek"/>
+</archimate:ApplicationComponent>

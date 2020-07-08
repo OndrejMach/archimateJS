@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PatternFeed, Panels, Keywords, guid_clicks, P2P (Read)"
+    id="4830af81-9a9b-4234-9edd-ef4a4cb816e7"
+    accessType="1">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_a3bf330e-fae8-4534-92c5-4e3b02f027df.xml#a3bf330e-fae8-4534-92c5-4e3b02f027df"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_1f5fadef-9648-498e-9102-4730ff191bae.xml#1f5fadef-9648-498e-9102-4730ff191bae"/>
+</archimate:AccessRelationship>

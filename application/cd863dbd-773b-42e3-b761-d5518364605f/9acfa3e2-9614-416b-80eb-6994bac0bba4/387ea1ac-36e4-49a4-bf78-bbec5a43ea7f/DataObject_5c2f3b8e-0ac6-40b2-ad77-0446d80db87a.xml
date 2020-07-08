@@ -1,0 +1,11 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="calistats aggregated"
+    id="5c2f3b8e-0ac6-40b2-ad77-0446d80db87a">
+  <properties
+      key="hdfs_path"
+      value="/prod/calibration//calistats/v4/aggregated/"/>
+  <properties
+      key="hive_table"
+      value="calibration.calistats_aggregated_v4"/>
+</archimate:DataObject>

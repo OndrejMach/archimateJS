@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Jumpshot Kafka BRQ"
+    id="598eba87-bc51-4aef-85ab-2b12f8d9116b">
+  <properties
+      key="responsible person"
+      value="Noam Asor"/>
+</archimate:ApplicationComponent>

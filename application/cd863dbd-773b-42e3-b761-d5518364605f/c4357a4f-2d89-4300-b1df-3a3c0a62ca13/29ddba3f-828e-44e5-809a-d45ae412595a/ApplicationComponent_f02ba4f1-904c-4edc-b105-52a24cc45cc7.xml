@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Audience seed"
+    id="f02ba4f1-904c-4edc-b105-52a24cc45cc7"
+    documentation="analysis on cohorts visiting certain domain (e-shops normally), their catogories and products">
+  <properties
+      key="responsible person"
+      value="Derek Hsieh, Chris Leung"/>
+</archimate:ApplicationComponent>

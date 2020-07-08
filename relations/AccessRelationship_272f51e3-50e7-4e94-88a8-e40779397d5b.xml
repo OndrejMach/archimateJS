@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Clickstream (Read)"
+    id="272f51e3-50e7-4e94-88a8-e40779397d5b"
+    accessType="1">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_1dca20f4-5f5d-4045-837e-e56199096eef.xml#1dca20f4-5f5d-4045-837e-e56199096eef"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_1f5fadef-9648-498e-9102-4730ff191bae.xml#1f5fadef-9648-498e-9102-4730ff191bae"/>
+</archimate:AccessRelationship>

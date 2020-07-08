@@ -1,0 +1,11 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="countrycode stats"
+    id="d8bba8cd-a844-4408-be0e-e7212539da55">
+  <properties
+      key="es_resource"
+      value="data-science-calibration-m-countrycode-stats/data"/>
+  <properties
+      key="hive_table"
+      value="calibration.x_monitoring_countrycode_stats"/>
+</archimate:DataObject>

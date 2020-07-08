@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Insights jumpshot webApp"
+    id="f27ab432-41c6-4672-8879-a7a1caf584dc">
+  <properties
+      key="responsible person"
+      value="Ota Hauptmann"/>
+</archimate:ApplicationComponent>

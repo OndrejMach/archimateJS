@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Generic Availability API"
+    id="9e33b92d-fdeb-4786-9f18-3e4dfca05e98"
+    documentation="Providec basic information about availability of certain data structure. Usefull especially for deily jobs or history recalcs. Before executing Spark job you can ask Availability API whether data you are about to read exist for a particular time interval.">
+  <properties
+      key="responsible person"
+      value="Daniel Kavan, Radek Micek"/>
+</archimate:ApplicationComponent>

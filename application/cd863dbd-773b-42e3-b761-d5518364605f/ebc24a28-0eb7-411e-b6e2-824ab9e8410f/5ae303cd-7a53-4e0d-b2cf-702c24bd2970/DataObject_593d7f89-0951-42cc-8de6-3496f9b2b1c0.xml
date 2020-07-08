@@ -1,0 +1,15 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HDFS clickstream - hourly - PARQUET"
+    id="593d7f89-0951-42cc-8de6-3496f9b2b1c0"
+    documentation="pre-processed click-stream, stored on hdfs /data/parquet, partitioned on hourly basis, updated daily">
+  <properties
+      key="hdfs_path"
+      value="/prod/urlinfo/clickstream/hourly/v01/"/>
+  <properties
+      key="responsible person"
+      value="Petr Dusak, Noam Asor"/>
+  <properties
+      key="hive_table"
+      value="clickstream.hourly"/>
+</archimate:DataObject>

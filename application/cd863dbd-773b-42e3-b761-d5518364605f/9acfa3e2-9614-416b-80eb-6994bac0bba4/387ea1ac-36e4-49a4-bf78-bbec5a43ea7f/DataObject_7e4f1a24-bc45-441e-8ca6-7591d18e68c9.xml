@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="meanfield model"
+    id="7e4f1a24-bc45-441e-8ca6-7591d18e68c9">
+  <properties
+      key="hdfs_path"
+      value="/prod/calibration/models/meanfield_model/v1"/>
+</archimate:DataObject>

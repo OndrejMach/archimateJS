@@ -1,0 +1,5 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Internal data structures"
+    id="1f5fadef-9648-498e-9102-4730ff191bae"
+    documentation="patternFeed, Keywords, Panels, Path2Purchase, Exposures, product/category metadata (HDFS, HIVE), Mongo"/>

@@ -1,0 +1,32 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Keywords"
+    id="4a87dc09-e996-4b32-8752-775282b3dc53">
+  <properties
+      key="hdfs_path"
+      value="/prod/keywords/v2u3/"/>
+  <properties
+      key="responsible person"
+      value="Matej Ferenc, Jiri Pokorny"/>
+  <properties
+      key="hive_table"
+      value="kw2u3.dump"/>
+  <properties
+      key="monitoring_path"
+      value="/prod/keywords/v2u3/dump/year=YYYY/month=MM/day=DD/"/>
+  <properties
+      key="monitoring_successfile"
+      value="True"/>
+  <properties
+      key="monitoring_runbook"
+      value="https://jumpshotinc.atlassian.net/wiki/spaces/BM/pages/302678017/Keywords+run-book"/>
+  <properties
+      key="monitoring_contact"
+      value="matej.ferenc@jumpshot.com, jiri.pokorny@jumpshot.com"/>
+  <properties
+      key="monitoring_time"
+      value="09:30 CET"/>
+  <properties
+      key="monitoring_enabled"
+      value="True"/>
+</archimate:DataObject>

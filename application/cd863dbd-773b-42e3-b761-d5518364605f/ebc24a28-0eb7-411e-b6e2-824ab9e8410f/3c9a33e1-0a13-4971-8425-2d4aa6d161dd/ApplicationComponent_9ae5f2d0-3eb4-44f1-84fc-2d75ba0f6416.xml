@@ -1,0 +1,11 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dumper - BRQ, Azkaban"
+    id="9ae5f2d0-3eb4-44f1-84fc-2d75ba0f6416">
+  <properties
+      key="responsible person"
+      value="Noam Asor, Ondrej Nekola, Petr Dusak"/>
+  <properties
+      key="YARN_queue"
+      value="production.datasource.clickstream_dumper"/>
+</archimate:ApplicationComponent>

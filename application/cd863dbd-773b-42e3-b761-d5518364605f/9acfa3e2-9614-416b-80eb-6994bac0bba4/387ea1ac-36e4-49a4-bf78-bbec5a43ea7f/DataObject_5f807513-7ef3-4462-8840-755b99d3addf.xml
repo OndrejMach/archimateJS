@@ -1,0 +1,11 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="medare"
+    id="5f807513-7ef3-4462-8840-755b99d3addf">
+  <properties
+      key="hive_table"
+      value="calibration.x_monitoring_medare"/>
+  <properties
+      key="es_resource"
+      value="data-science-calibration-m-medare/data"/>
+</archimate:DataObject>

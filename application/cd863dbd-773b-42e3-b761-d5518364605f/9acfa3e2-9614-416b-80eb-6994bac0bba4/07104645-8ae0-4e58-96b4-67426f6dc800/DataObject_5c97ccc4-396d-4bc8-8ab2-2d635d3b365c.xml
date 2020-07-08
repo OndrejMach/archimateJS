@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="backup event metrics"
+    id="5c97ccc4-396d-4bc8-8ab2-2d635d3b365c">
+  <properties
+      key="hdfs_path"
+      value="/user/martin.mesrsmid/pattern_monitoring_pipeline/backup_event_metrics"/>
+</archimate:DataObject>

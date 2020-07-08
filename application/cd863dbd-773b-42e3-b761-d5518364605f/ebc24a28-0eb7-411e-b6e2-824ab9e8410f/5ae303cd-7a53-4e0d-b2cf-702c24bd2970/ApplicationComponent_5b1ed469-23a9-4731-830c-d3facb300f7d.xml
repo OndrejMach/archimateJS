@@ -1,0 +1,11 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Hourly clickstream preparation Azkaban"
+    id="5b1ed469-23a9-4731-830c-d3facb300f7d">
+  <properties
+      key="responsible person"
+      value="Noam Asor, Petr Dusak"/>
+  <properties
+      key="YARN_queue"
+      value="production.preprocessing.clickstream_proc"/>
+</archimate:ApplicationComponent>

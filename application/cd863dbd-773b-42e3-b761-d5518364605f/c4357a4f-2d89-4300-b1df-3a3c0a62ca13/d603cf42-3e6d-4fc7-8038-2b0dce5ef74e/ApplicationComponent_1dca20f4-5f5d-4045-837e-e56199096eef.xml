@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Audience seed (Azkaban)"
+    id="1dca20f4-5f5d-4045-837e-e56199096eef"
+    documentation="analysis on how specific user groups (specified by customers as a set of conditions applied to GUID record in clickstream) behaves on internet&#xA;">
+  <properties
+      key="responsible person"
+      value="Derek Hsieh, Chris Leung"/>
+</archimate:ApplicationComponent>

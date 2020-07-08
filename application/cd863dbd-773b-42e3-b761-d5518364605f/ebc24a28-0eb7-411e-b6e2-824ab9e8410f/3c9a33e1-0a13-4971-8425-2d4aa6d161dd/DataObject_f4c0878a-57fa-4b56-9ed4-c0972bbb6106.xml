@@ -1,0 +1,11 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HDFS URL info (clickstream) RAW - BRQ instance"
+    id="f4c0878a-57fa-4b56-9ed4-c0972bbb6106">
+  <properties
+      key="hdfs_path"
+      value="/prod/urlinfo/clickstream/raw/v2/"/>
+  <properties
+      key="responsible person"
+      value="Ondrej Nekola, Noam Asor"/>
+</archimate:DataObject>

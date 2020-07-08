@@ -1,0 +1,11 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Daily guids"
+    id="670f01bc-2825-4a76-9426-a22cbce0808d">
+  <properties
+      key="hdfs_path"
+      value="/hdfs/data/panels2/daily-guids/"/>
+  <properties
+      key="hive_table"
+      value="panels2.daily_guids"/>
+</archimate:DataObject>

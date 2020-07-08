@@ -1,0 +1,14 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cookies all - complete history, no deletion"
+    id="2b680b7c-a4c3-4aab-8534-ab64626cdb68">
+  <properties
+      key="responsible person"
+      value="Ondrej Nekola, Noam Asor"/>
+  <properties
+      key="hdfs_path"
+      value="/prod/browsercleanup/cookies"/>
+  <properties
+      key="hive_table"
+      value="cookies.all"/>
+</archimate:DataObject>

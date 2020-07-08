@@ -1,0 +1,6 @@
+<archimate:ArchimateModel
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="jumpshot_architecture"
+    id="d0888426-cebf-4da9-8dce-5ea08863e88a"
+    purpose="This document shows architecture of Jumpshot eco-system. To proceed to architecture models please check the left panel of this page and proceed to:&#xA;&#xA;Views - Preprocessing for details on data gathering&#xA;Views - Processing High Level for information about components in backend streams&#xA;&#xA;to get detailed information about a particular component select the related view.&#xA;&#xA;"
+    version="4.4.0"/>

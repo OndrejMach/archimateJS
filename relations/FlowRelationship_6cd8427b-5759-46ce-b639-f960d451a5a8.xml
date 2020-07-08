@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" results, pixelfire post"
+    id="6cd8427b-5759-46ce-b639-f960d451a5a8">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_ac921098-9424-47f9-b47c-c75d6acdc9c2.xml#ac921098-9424-47f9-b47c-c75d6acdc9c2"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_f9f788b6-cb17-4b92-bf38-f59ebc1ef296.xml#f9f788b6-cb17-4b92-bf38-f59ebc1ef296"/>
+</archimate:FlowRelationship>

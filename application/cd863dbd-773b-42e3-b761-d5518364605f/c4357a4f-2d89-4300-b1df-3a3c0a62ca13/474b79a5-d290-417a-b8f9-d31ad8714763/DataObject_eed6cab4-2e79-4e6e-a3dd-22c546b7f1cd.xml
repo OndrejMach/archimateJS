@@ -1,0 +1,14 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Path2Purchase - Ecommerce"
+    id="eed6cab4-2e79-4e6e-a3dd-22c546b7f1cd">
+  <properties
+      key="hdfs_path"
+      value="/prod/p2p/ecommerce /"/>
+  <properties
+      key="responsible person"
+      value="Tomas Kruty, Tomas Dlabka"/>
+  <properties
+      key="hive_table"
+      value="P2P-API"/>
+</archimate:DataObject>

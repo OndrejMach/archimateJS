@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Marketplace, Cliclstream (Read)"
+    id="a8609111-316b-429d-9875-4aba12f27e88"
+    accessType="1">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_f02ba4f1-904c-4edc-b105-52a24cc45cc7.xml#f02ba4f1-904c-4edc-b105-52a24cc45cc7"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_1f5fadef-9648-498e-9102-4730ff191bae.xml#1f5fadef-9648-498e-9102-4730ff191bae"/>
+</archimate:AccessRelationship>

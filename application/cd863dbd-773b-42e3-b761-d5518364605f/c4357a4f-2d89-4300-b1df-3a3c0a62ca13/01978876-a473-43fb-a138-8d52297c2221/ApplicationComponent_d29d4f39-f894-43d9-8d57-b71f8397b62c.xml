@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CDC frontend"
+    id="d29d4f39-f894-43d9-8d57-b71f8397b62c">
+  <properties
+      key="responsible person"
+      value="Rastislav Kadlecek, Radek Micek"/>
+</archimate:ApplicationComponent>
