@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Hive cookies latest"
+    id="b25f2afb-7007-4dd4-8c29-0ec6eae3385b"
+    accessType="1">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_ffa99a75-de20-4384-b449-be3658c13ff8.xml#ffa99a75-de20-4384-b449-be3658c13ff8"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_1f5fadef-9648-498e-9102-4730ff191bae.xml#1f5fadef-9648-498e-9102-4730ff191bae"/>
+</archimate:AccessRelationship>

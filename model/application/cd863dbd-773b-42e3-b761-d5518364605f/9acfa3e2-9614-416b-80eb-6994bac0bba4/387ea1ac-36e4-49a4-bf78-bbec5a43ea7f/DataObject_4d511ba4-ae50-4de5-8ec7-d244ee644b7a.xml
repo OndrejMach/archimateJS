@@ -1,0 +1,14 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="calibration coefficients regular"
+    id="4d511ba4-ae50-4de5-8ec7-d244ee644b7a">
+  <properties
+      key="hdfs_path"
+      value="/prod/calibration/coeffs/v7.1/"/>
+  <properties
+      key="hive_table"
+      value="calibration.v7_1"/>
+  <properties
+      key="responsible persion"
+      value="Bretislav Sopik, Jonas Amrich"/>
+</archimate:DataObject>

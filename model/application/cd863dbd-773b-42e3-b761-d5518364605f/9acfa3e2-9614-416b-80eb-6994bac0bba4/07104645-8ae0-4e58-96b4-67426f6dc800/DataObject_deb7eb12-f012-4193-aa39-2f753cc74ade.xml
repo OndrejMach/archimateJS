@@ -1,0 +1,11 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="monipat counts"
+    id="deb7eb12-f012-4193-aa39-2f753cc74ade">
+  <properties
+      key="hive_table"
+      value="monipat.x_monipat_counts"/>
+  <properties
+      key="es_resource"
+      value="data-science-monipat-counts"/>
+</archimate:DataObject>

@@ -1,0 +1,14 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Stable panel"
+    id="8803d13a-aa09-439c-aa44-72d575f59ac5">
+  <properties
+      key="responsible person"
+      value="Matej Kratochvil, Daniel Kavan"/>
+  <properties
+      key="hdfs_path"
+      value="/data/panels2/stable"/>
+  <properties
+      key="hive_table"
+      value="panels2.stable"/>
+</archimate:DataObject>

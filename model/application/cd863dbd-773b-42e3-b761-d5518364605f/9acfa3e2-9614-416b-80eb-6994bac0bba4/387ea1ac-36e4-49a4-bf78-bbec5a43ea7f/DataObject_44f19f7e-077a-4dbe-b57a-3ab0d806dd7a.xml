@@ -1,0 +1,11 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="default stats"
+    id="44f19f7e-077a-4dbe-b57a-3ab0d806dd7a">
+  <properties
+      key="es_resource"
+      value="data-science-calibration-m-default-stats/data"/>
+  <properties
+      key="hive_table"
+      value="calibration.x_monitoring_default_stats"/>
+</archimate:DataObject>

@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="guid clicks processing"
+    id="fd74d758-945e-4acc-9b95-65a685dc9719">
+  <properties
+      key="responsible person"
+      value="Daniel Kavan, Matej Kratochvil"/>
+</archimate:ApplicationComponent>

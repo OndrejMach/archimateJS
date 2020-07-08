@@ -1,0 +1,41 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BlackRock stable v2"
+    id="6cd2aefc-6891-4fd3-9153-31a8e37220c7">
+  <properties
+      key="responsible person"
+      value="Jan Kubalec, Ondrej Machacek"/>
+  <properties
+      key="monitoring_component_type"
+      value="Azkaban-S3"/>
+  <properties
+      key="monitoring_customer_name"
+      value="Blackrock"/>
+  <properties
+      key="monitoring_dayof"
+      value="1"/>
+  <properties
+      key="monitoring_enabled"
+      value="True"/>
+  <properties
+      key="monitoring_filename"
+      value="part*.txt"/>
+  <properties
+      key="monitoring_frequency"
+      value="daily"/>
+  <properties
+      key="monitoring_path"
+      value="visitor-stable-v2/YYYYMMDD/"/>
+  <properties
+      key="monitoring_product_name"
+      value="Visitor feed stable v2"/>
+  <properties
+      key="monitoring_s3_bucket"
+      value="jumpshot-blackrock"/>
+  <properties
+      key="monitoring_time"
+      value="17:00 CET"/>
+  <properties
+      key="monitoring_size"
+      value="31457280"/>
+</archimate:ApplicationComponent>

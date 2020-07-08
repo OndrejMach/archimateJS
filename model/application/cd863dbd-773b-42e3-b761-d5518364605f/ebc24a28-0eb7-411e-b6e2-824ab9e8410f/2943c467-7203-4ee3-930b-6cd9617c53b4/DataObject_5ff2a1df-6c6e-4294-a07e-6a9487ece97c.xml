@@ -1,0 +1,15 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cookies latest"
+    id="5ff2a1df-6c6e-4294-a07e-6a9487ece97c"
+    documentation="only ones appeared within last n (20) days">
+  <properties
+      key="responsible person"
+      value="Ondrej Nekola, Noam Asor"/>
+  <properties
+      key="hdfs_path"
+      value="/prod/browsercleanup/cookies"/>
+  <properties
+      key="hive_table"
+      value="cookies.latest"/>
+</archimate:DataObject>

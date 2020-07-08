@@ -1,0 +1,11 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="quantcast targets predict"
+    id="dc130ab6-f3b0-4c1a-ada2-b5f91416e39a">
+  <properties
+      key="hive_table"
+      value="calibration.x_monitoring_quantcast_targets_predict_v1"/>
+  <properties
+      key="es_resource"
+      value="data-science-calibration-quantcast-targets-predict-v1"/>
+</archimate:DataObject>

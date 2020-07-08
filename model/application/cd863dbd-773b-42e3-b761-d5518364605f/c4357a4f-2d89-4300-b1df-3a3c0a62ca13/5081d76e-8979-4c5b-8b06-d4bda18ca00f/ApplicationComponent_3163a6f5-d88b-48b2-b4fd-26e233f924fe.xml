@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vertical manager"
+    id="3163a6f5-d88b-48b2-b4fd-26e233f924fe"
+    documentation="http://vertical-manager.jumpshot.com/api/eventtypes">
+  <properties
+      key="API_URL"
+      value="http://vertical-manager.jumpshot.com/api/eventtypes"/>
+</archimate:ApplicationComponent>

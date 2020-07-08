@@ -1,0 +1,11 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tracking Codes"
+    id="8c047aca-d125-4051-8741-0a000314fd02">
+  <properties
+      key="hdfs_path"
+      value="/prod/keywords/resources/url_params_categorization"/>
+  <properties
+      key="hive_table"
+      value="N/A"/>
+</archimate:DataObject>

@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="pixel fire"
+    id="a39f1131-b061-4660-8019-28ccf7b0dec9"
+    accessType="1">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_ac921098-9424-47f9-b47c-c75d6acdc9c2.xml#ac921098-9424-47f9-b47c-c75d6acdc9c2"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_05d02bd3-0ce7-46e2-a635-18259f0e0776.xml#05d02bd3-0ce7-46e2-a635-18259f0e0776"/>
+</archimate:AccessRelationship>

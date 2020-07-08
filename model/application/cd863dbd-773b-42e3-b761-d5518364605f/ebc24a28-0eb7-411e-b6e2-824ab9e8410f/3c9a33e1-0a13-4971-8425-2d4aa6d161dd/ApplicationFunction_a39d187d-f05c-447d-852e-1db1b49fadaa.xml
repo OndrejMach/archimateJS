@@ -1,0 +1,8 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dumper spark streaming BRQ"
+    id="a39d187d-f05c-447d-852e-1db1b49fadaa">
+  <properties
+      key="YARN_queue"
+      value="production.datasource.clickstream_dumper"/>
+</archimate:ApplicationFunction>

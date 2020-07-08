@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Jumpshot Kafka PRG"
+    id="802531c4-fae3-48bb-8005-91e42a53deb3">
+  <properties
+      key="responsible person"
+      value="Noam Asor"/>
+</archimate:ApplicationComponent>

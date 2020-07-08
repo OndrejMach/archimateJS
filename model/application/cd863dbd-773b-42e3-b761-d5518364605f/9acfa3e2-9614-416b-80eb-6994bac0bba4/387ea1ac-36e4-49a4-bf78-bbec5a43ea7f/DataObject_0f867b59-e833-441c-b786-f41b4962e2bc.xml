@@ -1,0 +1,11 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="quantcast corrections"
+    id="0f867b59-e833-441c-b786-f41b4962e2bc">
+  <properties
+      key="hive_table"
+      value="calibration.quantcast_corrections_v1"/>
+  <properties
+      key="hdfs_path"
+      value="/prod/calibration/resources/v7.1/quantcast_corrections/"/>
+</archimate:DataObject>

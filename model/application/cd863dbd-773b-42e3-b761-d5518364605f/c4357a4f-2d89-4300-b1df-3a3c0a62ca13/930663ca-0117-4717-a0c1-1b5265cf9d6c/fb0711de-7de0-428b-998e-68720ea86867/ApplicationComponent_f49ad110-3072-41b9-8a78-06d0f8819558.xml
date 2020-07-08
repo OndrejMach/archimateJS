@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HitWise Azkaban Workflow"
+    id="f49ad110-3072-41b9-8a78-06d0f8819558"
+    documentation="filters country codes, google/Mobile Portation translation, PII stripping (URL, referrer)&#xA;job is not running in Azkaban - scheduled via cron/bash. ">
+  <properties
+      key="responsible person"
+      value="Petr Poliak, Ondrej Nekola"/>
+  <properties
+      key="YARN_queue"
+      value="production.customers.hitwise"/>
+</archimate:ApplicationComponent>

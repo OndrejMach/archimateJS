@@ -1,0 +1,11 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MacGUID Panel"
+    id="877e4a03-49b5-4f2f-ba04-0a5ac9fe0a02">
+  <properties
+      key="hdfs_path"
+      value="/data/panels2/macguid"/>
+  <properties
+      key="hive_table"
+      value="panels2.macguid"/>
+</archimate:DataObject>

@@ -1,0 +1,11 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="optimization feed"
+    id="28b951e7-b02d-41cd-b477-14f4b390c7e3">
+  <properties
+      key="responsible person"
+      value="Vaclav Vavra, Anastasia Kuznetsova"/>
+  <properties
+      key="YARN_queue"
+      value="production.customers.other"/>
+</archimate:ApplicationComponent>

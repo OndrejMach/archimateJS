@@ -1,0 +1,11 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="optimization report"
+    id="072fff07-d37a-49f2-bf1b-40bcd65212b4">
+  <properties
+      key="responsible person"
+      value="Vaclav Vavra, Alex Hagerf"/>
+  <properties
+      key="YARN_queue"
+      value="production.customers.other"/>
+</archimate:ApplicationComponent>

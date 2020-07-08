@@ -1,0 +1,14 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="calibration coefficients PRC"
+    id="d425d75e-a05d-4297-9163-73883125d076">
+  <properties
+      key="hdfs_path"
+      value="/prod/calibration/coeffs/v7.1-forward/"/>
+  <properties
+      key="hive_table"
+      value="calibration.v7_1_forward"/>
+  <properties
+      key="responsible person"
+      value="Bretislav Sopik, Jonas Amrich"/>
+</archimate:DataObject>

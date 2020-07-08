@@ -1,0 +1,14 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Pattern Feed"
+    id="b5631fad-2783-4407-8970-41972604504f">
+  <properties
+      key="hdfs_path"
+      value="/prod/patternfeed/v3/output/pattern"/>
+  <properties
+      key="responsible person"
+      value="Jiri Pokorny, Matej Ferenc"/>
+  <properties
+      key="hive_table"
+      value="patternfeed3.data_pattern"/>
+</archimate:DataObject>

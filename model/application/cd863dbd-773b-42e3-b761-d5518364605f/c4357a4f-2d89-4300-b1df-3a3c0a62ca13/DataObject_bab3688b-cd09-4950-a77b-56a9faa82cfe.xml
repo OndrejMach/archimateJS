@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="S3 orders for delivery"
+    id="bab3688b-cd09-4950-a77b-56a9faa82cfe"
+    documentation="DDT queue">
+  <properties
+      key="responsible person"
+      value="Daniel Kavan, Radek Micek"/>
+</archimate:DataObject>

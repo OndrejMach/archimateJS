@@ -1,0 +1,43 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Computation for funnel fantasy - TODO"
+    id="0b59a1c5-98af-4cf5-9691-9eeb6dfa0507">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="a781b0d1-4f13-4512-a7ff-c648dfbd8e5a"
+      textPosition="1">
+    <bounds
+        x="420"
+        y="444"
+        width="174"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:DataObject"
+        href="DataObject_ca741fe6-3ac8-4b7f-afcf-fe73ec133062.xml#ca741fe6-3ac8-4b7f-afcf-fe73ec133062"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="60fdc349-2dcb-478a-bdcd-2c243a47d9f5"
+      textPosition="1">
+    <bounds
+        x="420"
+        y="531"
+        width="174"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:DataObject"
+        href="DataObject_f29d1bef-d4e9-485b-ad71-ead225fdb729.xml#f29d1bef-d4e9-485b-ad71-ead225fdb729"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="4cf18b2e-a89e-4f2d-b23f-f8b49fc520ae"
+      textAlignment="1"
+      content="ffc-prod-2 - azkaban projekt&#xA;kalibracni koeficienty geo, kalibracni koef ajax&#xA;keywords v2-u2&#xA;&#xA;v GITu - funnel_fantasy_computations&#xA;&#xA;v azkabanu je treba zadat flow parametry - from, to, recomputeDomains etc..&#xA;nesmi to bezet v obdobi kdy se kopiruje pattern-feed (8-18)&#xA;&#xA;spark konfigurace spark-props.gradle&#xA;&#xA;generuje to parquet&#xA;&#xA;konfigurace je v modulu workflow -> main -> conf -> to jde na produkci&#xA;&#xA;u zdrojaku je celkova konfigurace ktera se prepise konfiguraci v modulu workflow&#xA;&#xA;manualni spousteni - zmenit WF na azkabanu a parquet konfiguraci (zapis souboru)">
+    <bounds
+        x="660"
+        y="139"
+        width="397"
+        height="426"/>
+  </children>
+</archimate:ArchimateDiagramModel>

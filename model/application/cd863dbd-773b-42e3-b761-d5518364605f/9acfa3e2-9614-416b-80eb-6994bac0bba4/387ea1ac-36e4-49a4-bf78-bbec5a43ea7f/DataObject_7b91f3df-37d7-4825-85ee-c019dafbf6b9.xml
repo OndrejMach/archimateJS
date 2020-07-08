@@ -1,0 +1,11 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="tcc"
+    id="7b91f3df-37d7-4825-85ee-c019dafbf6b9">
+  <properties
+      key="hive_table"
+      value="calibration.x_monitoring_tcc"/>
+  <properties
+      key="hdfs_path"
+      value="/prod/calibration/monitoring/v1/tcc"/>
+</archimate:DataObject>

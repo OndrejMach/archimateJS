@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Panels - Annalect, Stable, Full (Write), Clickstream (Read)"
+    id="a468a9b5-ccbf-4996-b432-76189a9ff530"
+    accessType="3">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_299a463f-80f8-4769-9632-6fe7a32271d1.xml#299a463f-80f8-4769-9632-6fe7a32271d1"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_1f5fadef-9648-498e-9102-4730ff191bae.xml#1f5fadef-9648-498e-9102-4730ff191bae"/>
+</archimate:AccessRelationship>

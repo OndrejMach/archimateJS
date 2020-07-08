@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cookies processing"
+    id="f8809861-3c11-43a1-af69-3a775ec3e5ca">
+  <properties
+      key="responsible person"
+      value="Ondrej Nekola, Noam Asor"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Pattern Feed availability API"
+    id="5322b2f7-9b4e-4c83-9925-760885297a14"
+    documentation="based on date range and event IDs returns days when actual event set HEAD revision has not been calculated. ">
+  <properties
+      key="responsible person"
+      value="Jiri Pokorny, Matej Ferenc"/>
+</archimate:ApplicationComponent>

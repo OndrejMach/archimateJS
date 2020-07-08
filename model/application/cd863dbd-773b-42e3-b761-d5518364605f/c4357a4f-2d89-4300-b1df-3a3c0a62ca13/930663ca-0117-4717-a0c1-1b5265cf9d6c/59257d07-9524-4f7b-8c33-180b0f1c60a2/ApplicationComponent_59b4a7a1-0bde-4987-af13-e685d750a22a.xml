@@ -1,0 +1,41 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Quantcast domain metrics - 1day"
+    id="59b4a7a1-0bde-4987-af13-e685d750a22a">
+  <properties
+      key="responsible person"
+      value="Jan Kubalec, Ondrej Machacek"/>
+  <properties
+      key="monitoring_component_type"
+      value="Azkaban-S3"/>
+  <properties
+      key="monitoring_customer_name"
+      value="Quantcast"/>
+  <properties
+      key="monitoring_dayof"
+      value="1"/>
+  <properties
+      key="monitoring_enabled"
+      value="True"/>
+  <properties
+      key="monitoring_filename"
+      value="YYYY-MM-DD.txt.gz"/>
+  <properties
+      key="monitoring_frequency"
+      value="daily"/>
+  <properties
+      key="monitoring_path"
+      value="site_metrics_zero-v2/"/>
+  <properties
+      key="monitoring_product_name"
+      value="Domain metrics zero"/>
+  <properties
+      key="monitoring_s3_bucket"
+      value="jumpshot-qc"/>
+  <properties
+      key="monitoring_size"
+      value="5242880"/>
+  <properties
+      key="monitoring_time"
+      value="13:00 CET"/>
+</archimate:ApplicationComponent>

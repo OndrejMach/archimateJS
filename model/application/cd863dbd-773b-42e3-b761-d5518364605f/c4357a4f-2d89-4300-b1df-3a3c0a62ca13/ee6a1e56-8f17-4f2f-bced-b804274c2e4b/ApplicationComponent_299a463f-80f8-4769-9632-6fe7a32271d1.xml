@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Panels processing"
+    id="299a463f-80f8-4769-9632-6fe7a32271d1">
+  <properties
+      key="responsible person"
+      value="Matej Kratochvil, Daniel Kavan"/>
+  <properties
+      key="YARN_queue"
+      value="production.platforms.panels"/>
+  <properties/>
+</archimate:ApplicationComponent>

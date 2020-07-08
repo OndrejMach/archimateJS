@@ -1,0 +1,11 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="target domains"
+    id="9f2976cb-a65d-4122-aeea-45bf10bc6683">
+  <properties
+      key="hive_table"
+      value="calibration.target_domains_v7_1"/>
+  <properties
+      key="hdfs_path"
+      value="/prod/calibration/resources/v7.1/target_domains"/>
+</archimate:DataObject>

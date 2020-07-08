@@ -1,0 +1,11 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="optimization feed data for S3"
+    id="4d5fde37-a058-4740-9ce4-21a482e9cffe">
+  <properties
+      key="responsible person"
+      value="Vaclav Vavra, Anastasia Kuznetsova"/>
+  <properties
+      key="hdfs_path"
+      value="/data/optimization-feed/"/>
+</archimate:DataObject>

@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="simple model"
+    id="30c3b109-ef9d-4f6a-970a-3c1c17821189">
+  <properties
+      key="hdfs_path"
+      value="/prod/calibration/models/simple_model/v1"/>
+</archimate:DataObject>

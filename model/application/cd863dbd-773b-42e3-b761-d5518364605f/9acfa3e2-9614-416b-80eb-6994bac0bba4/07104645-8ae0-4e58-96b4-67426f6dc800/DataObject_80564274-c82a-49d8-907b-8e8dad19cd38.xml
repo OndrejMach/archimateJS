@@ -1,0 +1,14 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="results report"
+    id="80564274-c82a-49d8-907b-8e8dad19cd38">
+  <properties
+      key="hdfs_path"
+      value="/prod/monipat/results/reports/"/>
+  <properties
+      key="hive_table"
+      value="monipat.monipat_results_reports"/>
+  <properties
+      key="responsible person"
+      value="Bretislav Sopik"/>
+</archimate:DataObject>

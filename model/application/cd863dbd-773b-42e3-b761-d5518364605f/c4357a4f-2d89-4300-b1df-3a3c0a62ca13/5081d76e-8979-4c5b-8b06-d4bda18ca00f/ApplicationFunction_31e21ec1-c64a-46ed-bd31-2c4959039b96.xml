@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="pattern feed job"
+    id="31e21ec1-c64a-46ed-bd31-2c4959039b96"
+    documentation="- matching patterns from pattern repository  with URLs in clickstream stored in PARQUET DAILY and PARQUET DOMAIN&#xA;&#x9;-> if match, click is forwarded to to output and further enriched with pattern details - eq. checkout on amazon.com&#xA;- adding Socio-demographic information into the clickstream - eq. guessing gender, location etc.&#xA;- generate matrics clickstream - how many clicks matched etc.&#xA;- is executed on a regular basis and always recalculates the whole input (since 1.1.2014) using the latest event-set repository. It works on chunks where the most outdated chunks are taken first&#xA;&#xA; "/>

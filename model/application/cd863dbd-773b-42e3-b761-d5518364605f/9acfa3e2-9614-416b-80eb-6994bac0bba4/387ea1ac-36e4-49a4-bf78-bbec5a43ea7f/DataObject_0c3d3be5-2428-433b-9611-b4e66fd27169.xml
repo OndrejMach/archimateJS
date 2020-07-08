@@ -1,0 +1,11 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="monitoring table"
+    id="0c3d3be5-2428-433b-9611-b4e66fd27169">
+  <properties
+      key="hive_table"
+      value="calibration.x_monitoring_calistats_v4"/>
+  <properties
+      key="es_resource"
+      value="data-science-calibration-calistats-v4/data"/>
+</archimate:DataObject>

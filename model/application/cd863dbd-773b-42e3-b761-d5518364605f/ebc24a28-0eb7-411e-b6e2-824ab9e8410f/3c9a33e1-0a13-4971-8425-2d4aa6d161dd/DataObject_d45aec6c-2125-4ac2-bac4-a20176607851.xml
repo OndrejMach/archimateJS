@@ -1,0 +1,11 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HDFS URL info (clickstream) RAW"
+    id="d45aec6c-2125-4ac2-bac4-a20176607851">
+  <properties
+      key="hdfs_path"
+      value="/prod/urlinfo/clickstream/raw/v2/"/>
+  <properties
+      key="responsible person"
+      value="Ondrej Nekola, Noam Asor"/>
+</archimate:DataObject>
